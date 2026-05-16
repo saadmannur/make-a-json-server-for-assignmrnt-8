@@ -16,7 +16,7 @@
             "description": "You Don’t Know JS Yet is a deep exploration of JavaScript mechanics and advanced concepts. Kyle Simpson explains closures, scopes, prototypes, asynchronous behavior, and the JavaScript engine in detail. The book helps developers understand not only how to use JavaScript but also why the language behaves the way it does. Through clear explanations and practical examples, readers improve their understanding of modern JavaScript development and gain confidence in writing optimized, scalable, and efficient code for web applications.",
             "category": "Tech",
             "available_quantity": 13,
-            "image_url": "https://m.media-amazon.com/images/I/81kDm24B58L.jpg"
+            "image_url": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1585414018i/52764087.jpg"
         },
         {
             "re-id": "03",
@@ -34,7 +34,7 @@
             "description": "The Selfish Gene presents a revolutionary perspective on evolution and natural selection. Richard Dawkins explains how genes influence behavior and survival across generations. The book introduces the concept that organisms act as vehicles for genes and discusses competition, cooperation, adaptation, and evolution in detail. Through scientific explanations and thought-provoking examples, Dawkins encourages readers to think differently about biology, life, and the evolutionary processes that shape living organisms.",
             "category": "Science",
             "available_quantity": 7,
-            "image_url": "https://m.media-amazon.com/images/I/71LSkzgY3cL.jpg"
+            "image_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1366758096i/61535.jpg"
         }
     ],
     "categories": [
@@ -120,7 +120,7 @@
             "category": "Tech",
             "category_id": 2,
             "available_quantity": 13,
-            "image_url": "https://m.media-amazon.com/images/I/81kDm24B58L.jpg"
+            "image_url": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1585414018i/52764087.jpg"
         },
         {
             "id": "b8",
@@ -144,8 +144,8 @@
         },
         {
             "id": "b10",
-            "title": "Cosmos",
-            "author": "Carl Sagan",
+            "title": "The Di Vinci CODE",
+            "author": "Dan Brown",
             "description": "Cosmos takes readers on an extraordinary journey through space, science, and human civilization. Carl Sagan combines astronomy, biology, history, and philosophy to explain humanity’s connection to the universe. The book explores planets, stars, galaxies, evolution, and the search for extraterrestrial life while inspiring readers to appreciate scientific discovery. Sagan’s storytelling style is both educational and poetic, making complex scientific ideas engaging and emotionally powerful for readers of all backgrounds.",
             "category": "Science",
             "category_id": "03",
@@ -160,7 +160,7 @@
             "category": "Science",
             "category_id": 3,
             "available_quantity": 7,
-            "image_url": "https://m.media-amazon.com/images/I/71LSkzgY3cL.jpg"
+            "image_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1366758096i/61535.jpg"
         },
         {
             "id": "b12",
@@ -170,7 +170,7 @@
             "category": "Science",
             "category_id": 3,
             "available_quantity": 6,
-            "image_url": "https://m.media-amazon.com/images/I/81Y6APTf3KL.jpg"
+            "image_url": "https://cdn.bookey.app/20210205185021833/20210321140201801.jpg"
         }
     ]
 }
