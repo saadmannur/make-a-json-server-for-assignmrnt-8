@@ -1,0 +1,138 @@
+{
+    "categories": [
+        {
+            "id": 1,
+            "name": "Story"
+        },
+        {
+            "id": 2,
+            "name": "Tech"
+        },
+        {
+            "id": 3,
+            "name": "Science"
+        }
+    ],
+    "books": [
+        {
+            "id": "b1",
+            "title": "The Silent Patient",
+            "author": "Alex Michaelides",
+            "description": "The Silent Patient is a psychological thriller about Alicia Berenson, a famous painter who suddenly stops speaking after being accused of murdering her husband. Theo Faber, a psychotherapist, becomes obsessed with uncovering the truth behind Alicia’s silence. As he investigates her past and mental condition, shocking secrets slowly begin to emerge. The novel explores trauma, obsession, betrayal, and psychological manipulation while maintaining suspense throughout the story. The narrative style combines therapy sessions, diary entries, and emotional storytelling to create an unforgettable mystery experience for readers.",
+            "category": "Story",
+            "category_id": 1,
+            "available_quantity": 12,
+            "image_url": "https://m.media-amazon.com/images/I/81JJPDNlxSL.jpg"
+        },
+        {
+            "id": "b2",
+            "title": "Atomic Habits",
+            "author": "James Clear",
+            "description": "Atomic Habits explains how small daily improvements can lead to remarkable long-term success. James Clear introduces practical systems for building good habits and breaking bad ones. Through scientific research, real-life examples, and easy-to-follow strategies, the book teaches readers how consistency and discipline shape personal growth. The concept of identity-based habits encourages people to focus on becoming the type of person they want to be instead of chasing quick results. The book is highly motivational and useful for students, professionals, athletes, and entrepreneurs.",
+            "category": "Story",
+            "category_id": 1,
+            "available_quantity": 9,
+            "image_url": "https://m.media-amazon.com/images/I/91bYsX41DVL.jpg"
+        },
+        {
+            "id": "b3",
+            "title": "The Alchemist",
+            "author": "Paulo Coelho",
+            "description": "The Alchemist follows the journey of Santiago, a young shepherd who dreams of discovering treasure near the Egyptian pyramids. Along the way, he meets wise mentors and learns valuable lessons about courage, destiny, spirituality, and self-discovery. Paulo Coelho presents the idea that every person has a Personal Legend that represents their true purpose in life. The story inspires readers to follow their dreams, trust their hearts, and embrace uncertainty with courage. Its philosophical themes and emotional storytelling have made it one of the world’s most loved novels.",
+            "category": "Story",
+            "category_id": 1,
+            "available_quantity": 15,
+            "image_url": "https://m.media-amazon.com/images/I/71aFt4+OTOL.jpg"
+        },
+        {
+            "id": "b4",
+            "title": "Harry Potter and the Sorcerer's Stone",
+            "author": "J.K. Rowling",
+            "description": "Harry Potter and the Sorcerer’s Stone introduces readers to the magical world of Hogwarts School of Witchcraft and Wizardry. Harry Potter discovers that he is a wizard and begins an incredible journey filled with friendship, adventure, and danger. Together with Ron Weasley and Hermione Granger, Harry uncovers secrets about his past and faces the dark influence of Lord Voldemort. The novel combines fantasy, mystery, humor, and emotional storytelling while exploring themes of bravery, friendship, and the battle between good and evil.",
+            "category": "Story",
+            "category_id": 1,
+            "available_quantity": 20,
+            "image_url": "https://m.media-amazon.com/images/I/81YOuOGFCJL.jpg"
+        },
+        {
+            "id": "b5",
+            "title": "Eloquent JavaScript",
+            "author": "Marijn Haverbeke",
+            "description": "Eloquent JavaScript is a modern programming book that teaches JavaScript from beginner to advanced levels. The book explains core programming concepts such as variables, functions, loops, objects, asynchronous programming, and DOM manipulation in a clear and practical way. Readers learn how JavaScript works behind the scenes and how to build real-world applications using clean and efficient code. The book includes exercises and projects that strengthen problem-solving skills and improve programming knowledge for aspiring web developers.",
+            "category": "Tech",
+            "category_id": 2,
+            "available_quantity": 14,
+            "image_url": "https://eloquentjavascript.net/img/cover.jpg"
+        },
+        {
+            "id": "b6",
+            "title": "Clean Code",
+            "author": "Robert C. Martin",
+            "description": "Clean Code is one of the most influential software engineering books ever written. Robert C. Martin explains the principles of writing readable, maintainable, and professional code. The book discusses naming conventions, function design, error handling, testing, refactoring, and code structure using practical examples from real projects. Developers learn how to avoid bad coding practices and improve collaboration within teams. Clean Code encourages programmers to think carefully about software quality and long-term maintainability while building scalable applications.",
+            "category": "Tech",
+            "category_id": 2,
+            "available_quantity": 11,
+            "image_url": "https://m.media-amazon.com/images/I/41SH-SvWPxL.jpg"
+        },
+        {
+            "id": "b7",
+            "title": "You Don’t Know JS Yet",
+            "author": "Kyle Simpson",
+            "description": "You Don’t Know JS Yet is a deep exploration of JavaScript mechanics and advanced concepts. Kyle Simpson explains closures, scopes, prototypes, asynchronous behavior, and the JavaScript engine in detail. The book helps developers understand not only how to use JavaScript but also why the language behaves the way it does. Through clear explanations and practical examples, readers improve their understanding of modern JavaScript development and gain confidence in writing optimized, scalable, and efficient code for web applications.",
+            "category": "Tech",
+            "category_id": 2,
+            "available_quantity": 13,
+            "image_url": "https://m.media-amazon.com/images/I/81kDm24B58L.jpg"
+        },
+        {
+            "id": "b8",
+            "title": "JavaScript: The Good Parts",
+            "author": "Douglas Crockford",
+            "description": "JavaScript: The Good Parts focuses on the most powerful and elegant features of JavaScript while avoiding problematic practices. Douglas Crockford highlights concepts such as functions, inheritance, arrays, objects, and functional programming patterns. The book encourages developers to write cleaner and more efficient JavaScript code by understanding the language deeply. Even though JavaScript has evolved significantly over time, the principles discussed in the book remain highly valuable for developers who want to strengthen their coding style and software design skills.",
+            "category": "Tech",
+            "category_id": 2,
+            "available_quantity": 10,
+            "image_url": "https://m.media-amazon.com/images/I/81kqrwS1nNL.jpg"
+        },
+        {
+            "id": "b9",
+            "title": "A Brief History of Time",
+            "author": "Stephen Hawking",
+            "description": "A Brief History of Time explores some of the biggest mysteries of the universe including black holes, time travel, gravity, and the origin of the cosmos. Stephen Hawking explains highly complex scientific theories in a way that general readers can understand. The book discusses the Big Bang Theory, quantum mechanics, and the nature of space and time while encouraging curiosity about the universe. Its accessible explanations and fascinating scientific insights have made it one of the most influential science books ever written.",
+            "category": "Science",
+            "category_id": 3,
+            "available_quantity": 8,
+            "image_url": "https://m.media-amazon.com/images/I/71UypkUjStL.jpg"
+        },
+        {
+            "id": "b10",
+            "title": "Cosmos",
+            "author": "Carl Sagan",
+            "description": "Cosmos takes readers on an extraordinary journey through space, science, and human civilization. Carl Sagan combines astronomy, biology, history, and philosophy to explain humanity’s connection to the universe. The book explores planets, stars, galaxies, evolution, and the search for extraterrestrial life while inspiring readers to appreciate scientific discovery. Sagan’s storytelling style is both educational and poetic, making complex scientific ideas engaging and emotionally powerful for readers of all backgrounds.",
+            "category": "Science",
+            "category_id": "03",
+            "available_quantity": 16,
+            "image_url": "https://m.media-amazon.com/images/I/91Q5dCjc2KL.jpg"
+        },
+        {
+            "id": "b11",
+            "title": "The Selfish Gene",
+            "author": "Richard Dawkins",
+            "description": "The Selfish Gene presents a revolutionary perspective on evolution and natural selection. Richard Dawkins explains how genes influence behavior and survival across generations. The book introduces the concept that organisms act as vehicles for genes and discusses competition, cooperation, adaptation, and evolution in detail. Through scientific explanations and thought-provoking examples, Dawkins encourages readers to think differently about biology, life, and the evolutionary processes that shape living organisms.",
+            "category": "Science",
+            "category_id": 3,
+            "available_quantity": 7,
+            "image_url": "https://m.media-amazon.com/images/I/71LSkzgY3cL.jpg"
+        },
+        {
+            "id": "b12",
+            "title": "The Gene",
+            "author": "Siddhartha Mukherjee",
+            "description": "The Gene is a detailed exploration of genetics, heredity, and the scientific discoveries that transformed modern medicine. Siddhartha Mukherjee traces the history of genetic research from early experiments to modern DNA technology and genetic engineering. The book examines how genes influence health, identity, and human behavior while also discussing ethical challenges related to genetic science. Through engaging storytelling and scientific explanations, readers gain a deeper understanding of one of the most important fields in modern biology.",
+            "category": "Science",
+            "category_id": 3,
+            "available_quantity": 6,
+            "image_url": "https://m.media-amazon.com/images/I/81Y6APTf3KL.jpg"
+        }
+    ]
+}
