@@ -1,38 +1,42 @@
 {
     "recommended": [
         {
-            "re-id": "01",
+            "id": "b4",
             "title": "Harry Potter and the Sorcerer's Stone",
             "author": "J.K. Rowling",
             "description": "Harry Potter and the Sorcerer’s Stone introduces readers to the magical world of Hogwarts School of Witchcraft and Wizardry. Harry Potter discovers that he is a wizard and begins an incredible journey filled with friendship, adventure, and danger. Together with Ron Weasley and Hermione Granger, Harry uncovers secrets about his past and faces the dark influence of Lord Voldemort. The novel combines fantasy, mystery, humor, and emotional storytelling while exploring themes of bravery, friendship, and the battle between good and evil.",
             "category": "Story",
+            "category_id": 1,
             "available_quantity": 20,
             "image_url": "https://m.media-amazon.com/images/I/81YOuOGFCJL.jpg"
         },
         {
-            "re-id": "02",
-            "title": "You Don’t Know JS Yet",
-            "author": "Kyle Simpson",
-            "description": "You Don’t Know JS Yet is a deep exploration of JavaScript mechanics and advanced concepts. Kyle Simpson explains closures, scopes, prototypes, asynchronous behavior, and the JavaScript engine in detail. The book helps developers understand not only how to use JavaScript but also why the language behaves the way it does. Through clear explanations and practical examples, readers improve their understanding of modern JavaScript development and gain confidence in writing optimized, scalable, and efficient code for web applications.",
+            "id": "b6",
+            "title": "Clean Code",
+            "author": "Robert C. Martin",
+            "description": "Clean Code is one of the most influential software engineering books ever written. Robert C. Martin explains the principles of writing readable, maintainable, and professional code. The book discusses naming conventions, function design, error handling, testing, refactoring, and code structure using practical examples from real projects. Developers learn how to avoid bad coding practices and improve collaboration within teams. Clean Code encourages programmers to think carefully about software quality and long-term maintainability while building scalable applications.",
             "category": "Tech",
-            "available_quantity": 13,
-            "image_url": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1585414018i/52764087.jpg"
+            "category_id": 2,
+            "available_quantity": 11,
+            "image_url": "https://m.media-amazon.com/images/I/41SH-SvWPxL.jpg"
         },
         {
-            "re-id": "03",
+            "id": "b8",
             "title": "JavaScript: The Good Parts",
             "author": "Douglas Crockford",
             "description": "JavaScript: The Good Parts focuses on the most powerful and elegant features of JavaScript while avoiding problematic practices. Douglas Crockford highlights concepts such as functions, inheritance, arrays, objects, and functional programming patterns. The book encourages developers to write cleaner and more efficient JavaScript code by understanding the language deeply. Even though JavaScript has evolved significantly over time, the principles discussed in the book remain highly valuable for developers who want to strengthen their coding style and software design skills.",
             "category": "Tech",
+            "category_id": 2,
             "available_quantity": 10,
             "image_url": "https://m.media-amazon.com/images/I/81kqrwS1nNL.jpg"
         },
         {
-            "re-id": "04",
+            "id": "b11",
             "title": "The Selfish Gene",
             "author": "Richard Dawkins",
             "description": "The Selfish Gene presents a revolutionary perspective on evolution and natural selection. Richard Dawkins explains how genes influence behavior and survival across generations. The book introduces the concept that organisms act as vehicles for genes and discusses competition, cooperation, adaptation, and evolution in detail. Through scientific explanations and thought-provoking examples, Dawkins encourages readers to think differently about biology, life, and the evolutionary processes that shape living organisms.",
             "category": "Science",
+            "category_id": 3,
             "available_quantity": 7,
             "image_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1366758096i/61535.jpg"
         }
